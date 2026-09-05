@@ -326,3 +326,7 @@ Al finalizar el taller se deben responder preguntas como:
 
 Este taller permite practicar conceptos fundamentales de Java mediante un juego interactivo.  
 El proyecto fortalece el uso de métodos, cadenas de texto, arreglos, lectura de archivos CSV y organización del código en clases.
+
+## Prueba Pull Shark #1
+
+Este cambio forma parte de una prueba de Pull Request.
