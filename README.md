@@ -329,4 +329,8 @@ El proyecto fortalece el uso de métodos, cadenas de texto, arreglos, lectura de
 
 ## Prueba Pull Shark #1
 
+## Prueba Pull Shark #2
+
+Segundo Pull Request de prueba.
+
 Este cambio forma parte de una prueba de Pull Request.
